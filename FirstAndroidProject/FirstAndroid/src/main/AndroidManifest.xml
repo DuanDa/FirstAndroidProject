@@ -2,8 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.firstandroid"
     android:versionCode="1"
-    android:versionName="1.1" >
-    <!-- upgrade the version name to 1.1 from developer.duan -->
+    android:versionName="1.2" >
+    <!-- upgrade the version name to 1.2 from dansuninho -->
 
     <uses-sdk
         android:minSdkVersion="7"
