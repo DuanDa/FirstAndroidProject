@@ -2,8 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.firstandroid"
     android:versionCode="1"
-    android:versionName="1.5" >
-    <!-- upgrade the version name to 1.5 from DuanDa -->
+    android:versionName="1.6" >
+    <!-- upgrade the version name to 1.6 from develop -->
 
     <use-permission />
     <!-- Add permission from DuanDa -->
